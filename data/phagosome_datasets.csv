@@ -1,1 +1,21 @@
-
+Quant Comparison Group	Title	DOI	PMCID	Journal	Year	First Author	Last Author	PRIDE ID	Species	Cells	Cell type notes	Cellular Input	Phagosome Cargo	Multiplicity of Infection	Phagosome Timepoint (hrs)	Phagosome Isolation Method	Mass Spectrometry Sample Preparation	Quantitation	Mass Spectrometer	Search Software	Fixed PTMs	Variable PTMs	MassIVE ID	Annotation	Included in Phagosome-DB?
+Rao2009_batch1	A systems biology approach to study the phagosomal proteome modulated by mycobacterial infections		19918316	Int J Clin Exp Med	2009	Rao	Li	none	Mouse	BMA.A3	Macrophage-like cell line from C57Bl/6 mice	100 ug of purified phagosome protein	"M. tuberculosis (H37Rv, WT)"	5 bacteria: 1 macrophage	22	Physical fractionation (dounce homogenizer + 28G needle) -> 500xg -> supernatant to 50/12% sucrose gradient -> 1000xg for 60min -> interphase to 70kDa ficoll -> 400 kDa ficoll -> SDS/PAGE gel	SDS/PAGE gel	LFQ	LTQ-FTMS	Trans-Proteomic Pipeline		oxidation (M)	none		
+Rao2009_batch1								none					"M. tuberculosis (H37Rv, fbpA KO)"	5 bacteria: 1 macrophage	22								none		
+Rao2009_batch1								none					M. bovis (BCG)	5 bacteria: 1 macrophage	22								none		
+Li_batch1		10.1021/pr101245u						none															none		
+Shui2008_batch1		10.1073/pnas.0809218105			2008	Shui	Bertozzi	none															none		
+Shui2010_batch2		10.1021/pr100688h			2010	Shui	Bertozzi																		
+	PRIDE: The E3 ubiquitin ligase RNF115 regulates phagosome maturation and host response to infection				2022		Trost	PXD026843								Buoyant fraction									
+	PRIDE: Phagosome proteome of activated murine macrophage				2016		Trost	PXD004520								Buoyant fraction									
+Guo2015_batch1	High-resolution quantitative proteome analysis reveals substantial differences between phagosomes of RAW 264.7 and bone marrow derived macrophages	10.1002/pmic.201400431	25504905	Proteomics	2015	Guo	Trost	PXD001293								Buoyant fraction									
+Dill2015_batch1	Quantitative proteome analysis of temporally resolved phagosomes following uptake via key phagocytic receptors	10.1074/mcp.M114.044594	25755298	Mol Cell Proteomics	2015	Dill	Trost	PXD000772								Buoyant fraction									
+Breyer2021_batch1	TPL-2 kinase induces phagosome acidification to promote macrophage killing of bacteria	10.15252/embj.2020106188	PMC8126920 	EMBO J	2021	Breyer	Trost	PXD020401								Buoyant fraction									
+Pauwels2019_batch1	Spatiotemporal changes of the phagosomal proteome in dendritic cells in response to LPS stimulation	10.1074/mcp.ra119.001316 	PMC6495253	Mol Cell Proteomics	2019	Pauwels	Hoffman	PXD012155								Buoyant fraction									
+Li2024_batch1	Profiling phagosome proteins identifies PD-L1 as a fungal-binding receptor	10.1038/s41586-024-07499-6	PMC12755075	Nature	2024	Li	Underhill	PXD043088					S. aureus			Proximity labeling			LFQ						
+Li2024_batch1	Profiling phagosome proteins identifies PD-L1 as a fungal-binding receptor	10.1038/s41586-024-07499-6	PMC12755075	Nature	2024	Li	Underhill	PXD043088					S. cerevisiae			Proximity labeling			LFQ						
+Li2024_batch1	Profiling phagosome proteins identifies PD-L1 as a fungal-binding receptor	10.1038/s41586-024-07499-6	PMC12755075	Nature	2024	Li	Underhill	PXD043088					E. coli			Proximity labeling			LFQ						
+Fabrik2023_batch1	Lung macrophages utilize unique cathepsin KÐdependent phagosomal machinery to degrade intracellular collagen	10.26508/lsa.202201535		Life Science Alliance	2023	Fabrik	Hartlova	PXD033010	Mouse	Primary macrophages						Magnetic			LFQ		Carbamidomethylation (C)	"Acetylation (protein N-term), oxidation (M)"			
+Allsup2026_batch1						Allsup	Bryson		Mouse							Proximity labeling			TMT						
+Allsup2026_batch1						Allsup	Bryson		Human							Proximity labeling			TMT						
+Allsup2026_batch2						Allsup	Bryson		Mouse				bead			Proximity labeling			LFQ						
+Allsup2026_batch2						Allsup	Bryson		Mouse				E. coli			Proximity labeling			LFQ						
