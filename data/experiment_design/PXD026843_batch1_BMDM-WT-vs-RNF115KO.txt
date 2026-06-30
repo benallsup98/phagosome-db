@@ -1,0 +1,28 @@
+raw_file	Quant Comparison Group	Genotype	Replicate	MaxQuant Experiment	Fraction	PTM																																		Search Software	Fixed PTMs	Variable PTMs	MassIVE ID	Annotation	Included in Phagosome-DB?	DOI	PMCID	Journal	Year
+20190508_JL_BMDM_KO_RNF115_phago_01	Bilkei-Gorzo2022_batch1_BMDM-WT-vs-RNF115KO	RNF115KO	1	RNF115KO	1	n/a																																											2022
+20190508_JL_BMDM_KO_RNF115_phago_02	Bilkei-Gorzo2022_batch1_BMDM-WT-vs-RNF115KO	RNF115KO	2	RNF115KO	1	n/a																																											2022
+20190508_JL_BMDM_KO_RNF115_phago_03	Bilkei-Gorzo2022_batch1_BMDM-WT-vs-RNF115KO	RNF115KO	3	RNF115KO	1	n/a																																											2016
+20190508_JL_BMDM_WT_phago_02	Bilkei-Gorzo2022_batch1_BMDM-WT-vs-RNF115KO	WT	2	WT	1	n/a																																											
+20190508_JL_BMDM_WT_phago_03	Bilkei-Gorzo2022_batch1_BMDM-WT-vs-RNF115KO	WT	3	WT	1	n/a																																								10.1002/pmic.201400431	25504905	Proteomics	2015
+20190508_JL_BMDM_WT_phago_04	Bilkei-Gorzo2022_batch1_BMDM-WT-vs-RNF115KO	WT	4	WT	1	n/a																																								10.1074/mcp.M114.044594	25755298	Mol Cell Proteomics	2015
+																																														10.15252/embj.2020106188	PMC8126920 	EMBO J	2021
+																																														10.1074/mcp.ra119.001316 	PMC6495253	Mol Cell Proteomics	2019
+																																														10.1038/s41586-024-07499-6	PMC12755075	Nature	2024
+																																									Carbamidomethylation (C)	"Acetylation (protein N-term), oxidation (M)"				10.26508/lsa.202201535		Life Science Alliance	2023
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																								Trans-Proteomic Pipeline		oxidation (M)	none				19918316	Int J Clin Exp Med	2009
+																																											none						
+																																											none						
+																																											none			10.1021/pr101245u			
+																																											none			10.1073/pnas.0809218105			2008
+																																														10.1021/pr100688h			2010
